@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+ios/
+android/
+.bundle/
+*.log
+.DS_Store
+_tests_/
